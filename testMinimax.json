@@ -1,0 +1,6 @@
+{
+    "board": "X O             ",
+    "playerLetter": "X",
+    "computerLetter": "O",
+    "computerMoves": []
+}
